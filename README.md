@@ -2,7 +2,8 @@
 - 📥 I'm looking into event-based systems
 - 🔖 I'm learning:
   - λ Functional programming
-  - ☕ Java that doesn't make people balk
+  - 🧺 Category Theory
+  - ⛓️ Catching up on SQL stuff I missed
   - 🎲 Silly game things
   - 🖌️ Some design by necessity
 - 📫 You can email me at soulreviewsmail@gmail.com
